@@ -14,5 +14,6 @@
   "asici_32": "ASICI 3200",
   "asici_33": "ASICI 3300",
   "asici_36": "ASICI 3600",
-  "direct_purge": "Direct Purge"
+  "direct_purge": "Direct Purge",
+  "none": "None"
 }
