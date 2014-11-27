@@ -1,6 +1,7 @@
 {
   "model_v3": "Model III",
   "model_v4": "Model IV",
+  "tdm": "TDM",
   "tdm_v2": "TDM-II",
   "gc_pyro": "GC/Pyro",
   "gc_pyro_v2": "GC/Pyro 2.0",
