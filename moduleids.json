@@ -10,8 +10,8 @@
   "merx_t_pt": "MERX-T Purge & Trap",
   "merx_t_pt_v2": "MERX-T Purge & Trap 2.0",
   "merx_t_pt_xy": "MERX-T Purge & Trap (X/Y)",
-  "aim3200": "ASICI 3200",
-  "aim3300": "ASICI 3300",
-  "aim3600": "ASICI 3600",
+  "aim3200": "Autosampler 3200",
+  "aim3300": "Autosampler 3300",
+  "aim3600": "Autosampler 3600",
   "none": "None"
 }
